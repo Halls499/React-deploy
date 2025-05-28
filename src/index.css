@@ -1,0 +1,21 @@
+:root {
+  font-family: "Offside", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.offside-regular {
+  font-family: "Offside", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  --primary: #16213E;
+  --secondary: #0F3460;--terceary: #533483; 
+  --red: #E94560;
+  --soft-white: #f1f1f1;
+  --black: #111;
+  --white: #fefefe;
+  --gray: #222222
+}
