@@ -6,7 +6,7 @@ import Contatos from "./pages/contatos";
 
 function AppRoutes(){
     return(
-        <BrowserRouter>
+        <BrowserRouter basename="/React-funcional">
         <Routes>
             <Route path="/" element={ <Home /> }> </Route>
             <Route path="/sobre" element={ <Sobre /> }> </Route>
